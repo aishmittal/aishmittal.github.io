@@ -20,11 +20,18 @@
         </a>
       </div>
     {% endif %}
-    {% if user.email %}
+    <div class="{{ metadata_styles }}">
+        {% octicon globe height:20 class:"mr-2 v-align-middle" fill:{{ icon_color }} aria-label:Website %}
+        <a href="https://aishmittal.wordpress.com" {% if site.style == 'dark' %}class="text-white"{% endif %}>
+          aishmittal.wordpress.com
+        </a>
+    </div>
+    {% assign email = "aishwaryamittal2011@gmail.com" %}
+    {% if email %}
       <div class="{{ metadata_styles }}">
         {% octicon mail height:20 class:"mr-2 v-align-middle" fill:{{ icon_color }} aria-label:email %}
         <a href="mailto:{{ user.email }}" {% if site.style == 'dark' %}class="text-white"{% endif %}>
-          {{ user.email }}
+          {{ email }}
         </a>
       </div>
     {% endif %}
