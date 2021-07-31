@@ -1,4 +1,3 @@
-
 // /* Vendor imports */
 // const path = require('path');
 // /* App imports */
@@ -21,7 +20,7 @@
 //           }
 //         }
 //       }
-//     }    
+//     }
 //   `).then((result) => {
 //     if (result.errors) return Promise.reject(result.errors);
 
