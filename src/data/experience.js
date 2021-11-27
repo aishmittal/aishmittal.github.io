@@ -1,7 +1,12 @@
 module.exports = [
   {
+    title: 'Software Engineer - III | Google, Bangalore',
+    duration: 'Sep 2021 - Present',
+    description: `Working with Google Knowledge Engine team in Google Search on enhancing user search experience.`,
+  },
+  {
     title: 'Member of Technical Staff - II | Adobe Systems, Noida',
-    duration: 'Feb 2020 - Present',
+    duration: 'Feb 2020 - Sep 2021',
     description: `Worked on development of print RIPs by fixing existing bugs related to memory management and print quality, 
       done porting of the products for different machine configurations and operating systems, added support for multiple image 
       formats such as JPG, PNG, BMP and TIFF for input to RIP. Also, Implemented various Machine Learning and 
