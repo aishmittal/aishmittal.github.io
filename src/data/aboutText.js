@@ -1,5 +1,5 @@
 module.exports = {
-  paraOne: `Hello! I'm Aishwarya Mittal, currently working as the Software Engineer at Google, Banagalore. I like to design and develop 
+  paraOne: `Hello! I'm Aishwarya Mittal, currently working as the Software Engineer at Google, Bangalore. I like to design and develop 
   computer applications, web sites and games. I have interest in Full Stack Development, Computer Vision, Machine Learning and Data Science.
   `,
   paraTwo: `I have done my graduation from Indian Institute of Technology, Roorkee. During my college time I got to learn 
